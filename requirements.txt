@@ -1,0 +1,9 @@
+Flask
+Flask-SocketIO
+Flask-Login
+Flask-SQLAlchemy
+Werkzeug
+PyTZ
+gunicorn 
+gevent 
+gevent-websocket
