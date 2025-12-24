@@ -1,7 +1,8 @@
 {
   "name": "Chat App",
   "short_name": "Chat",
-  "start_url": "/login",
+  "start_url": "/login?source=pwa",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2196f3",
